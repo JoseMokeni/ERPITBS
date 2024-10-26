@@ -27,6 +27,14 @@ table 50002 "Chef Department"
             Caption = 'Country';
             TableRelation = "Country/Region".Code;
         }
+        field(5; CountryName2; text[100])
+        {
+            Caption = 'Country Name 2';
+            FieldClass = FlowField;
+            CalcFormula = lookup("Country/Region".name2 where(
+                code = field(CountryCode)
+            ));
+        }
     }
 
     keys

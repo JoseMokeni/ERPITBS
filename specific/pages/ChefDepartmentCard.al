@@ -28,6 +28,10 @@ page 50003 "ChefDepartment Card"
                 {
                     ApplicationArea = All;
                 }
+                field(CountryName2; rec.CountryName2)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

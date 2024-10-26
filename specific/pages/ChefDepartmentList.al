@@ -29,6 +29,10 @@ page 50002 "ChefDepartment List"
                 {
                     ApplicationArea = All;
                 }
+                field(CountryName2; rec.CountryName2)
+                {
+                    ApplicationArea = All;
+                }
 
             }
         }
