@@ -1,0 +1,26 @@
+{
+  "id": "eec8167e-a691-477b-b097-16c11ff30dc2",
+  "name": "Projet1",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60000
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["NoImplicitWith"]
+}
