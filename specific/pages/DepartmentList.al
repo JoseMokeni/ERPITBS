@@ -60,6 +60,7 @@ page 50000 "Department Liste"
                     ApplicationArea = all;
                     Editable = false;
                 }
+
             }
         }
     }
@@ -76,6 +77,24 @@ page 50000 "Department Liste"
 
                 end;
             }
+
+            action(ShowEmployees)
+            {
+                ApplicationArea = All;
+                Caption = 'Show Employees';
+                Image = Employee;
+                
+                trigger OnAction()
+                var
+                    Employee: Record Employee;
+                    EmployeeList: Page "Employee List";
+                begin
+                    Employee.Reset();
+                    Employee.SetRange(DepartmentCode, Rec.Code);
+                    EmployeeList.SetTableView(Employee);
+                    EmployeeList.Run();
+                end;
+            }   
         }
     }
 

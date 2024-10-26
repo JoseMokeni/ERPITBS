@@ -78,6 +78,14 @@ page 50001 "Department Card"
                     StyleExpr = statusStyle;
                 }
             }
+
+        
+            part(DepartmentEmployees; "Department Employees SubPage")
+            {
+                ApplicationArea = All;
+                SubPageLink = DepartmentCode= FIELD(Code);
+            }
+        
         }
     }
 
@@ -100,6 +108,15 @@ page 50001 "Department Card"
     var
         myInt: Integer;
         statusStyle: Text[20];
+        Employee: Record Employee;
+
+    trigger OnOpenPage()
+    begin
+        Employee.Reset();
+        Employee.SetRange(DepartmentCode, Rec.Code);
+        if Employee.Count > 5 then
+            Message('This department has more than 5 employees.');
+    end;
 
     trigger OnAfterGetRecord()
     begin
