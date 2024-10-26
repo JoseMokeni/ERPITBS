@@ -91,13 +91,25 @@ table 50000 Department
     end;
 
     trigger OnModify()
+    var
+        Employee: Record Employee;
+        ConfirmModifyMsg: Label 'This department has employees assigned to it. Are you sure you want to modify department %1?';
     begin
         Rec.UpdatedAT := TODAY;
         Rec.UpdatedBy := USERID;
+
+        Employee.SetRange(DepartmentCode, Rec.Code);
+        if not Employee.IsEmpty then
+            if not Confirm(ConfirmModifyMsg, false, Rec.Code) then
+                Error('');
     end;
 
     trigger OnDelete()
+    var
+        CannotDeleteOpenErr: Label 'You cannot delete department %1 because its status is Open.';
     begin
+        if Rec.Status = Rec.Status::Open then
+            Error(CannotDeleteOpenErr, Rec.Code);
 
     end;
 

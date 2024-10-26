@@ -111,11 +111,13 @@ page 50001 "Department Card"
         Employee: Record Employee;
 
     trigger OnOpenPage()
+    var
+        text001: Label 'This department has more than 5 employees.';
     begin
         Employee.Reset();
         Employee.SetRange(DepartmentCode, Rec.Code);
         if Employee.Count > 5 then
-            Message('This department has more than 5 employees.');
+            Message(text001);
     end;
 
     trigger OnAfterGetRecord()
