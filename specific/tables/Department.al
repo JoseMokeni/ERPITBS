@@ -44,6 +44,28 @@ table 50000 Department
             DataClassification = ToBeClassified;
             Caption = 'UpdatedBy';
         }
+        field(8; ChefDepartmentCode; code[20])
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Chef Department Code';
+            TableRelation = "Chef Department".Code;
+        }
+        field(9; ChefDepartmentName; text[100])
+        {
+            Caption = 'Chef Department Name';
+            FieldClass = FlowField;
+            CalcFormula = lookup("Chef Department".Name where(
+                code = field(ChefDepartmentCode)
+            ));
+        }
+        field(10; ChefDepartmentStatus; Enum "ChefDepartment Status")
+        {
+            Caption = 'Chef Department Status';
+            FieldClass = FlowField;
+            CalcFormula = lookup("Chef Department".Status where(
+                code = field(ChefDepartmentCode)
+            ));
+        }
     }
 
     keys

@@ -46,6 +46,20 @@ page 50000 "Department Liste"
                 {
                     ApplicationArea = all;
                 }
+                field(ChefDepartmentCode; Rec.ChefDepartmentCode)
+                {
+                    ApplicationArea = all;
+                }
+                field(ChefDepartmentName; Rec.ChefDepartmentName)
+                {
+                    ApplicationArea = all;
+                    Editable = false;
+                }
+                field(ChefDepartmentStatus; Rec.ChefDepartmentStatus)
+                {
+                    ApplicationArea = all;
+                    Editable = false;
+                }
             }
         }
     }

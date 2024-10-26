@@ -49,6 +49,24 @@ page 50001 "Department Card"
                         Editable = false;
                     }
                 }
+                group(GroupChef)
+                {
+                    Caption = 'Department Chef';
+                    field(ChefDepartmentCode; Rec.ChefDepartmentCode)
+                    {
+                        ApplicationArea = all;
+                    }
+                    field(ChefDepartmentName; Rec.ChefDepartmentName)
+                    {
+                        ApplicationArea = all;
+                        Editable = false;
+                    }
+                    field(ChefDepartmentStatus; Rec.ChefDepartmentStatus)
+                    {
+                        ApplicationArea = all;
+                        Editable = false;
+                    }
+                }
             }
             group(Details)
             {
