@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="Projet1.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2225130392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department</source>
+          <target>Chef de déparatement</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 3643848063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target>Pays</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field CountryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 2205693815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country Name 2</source>
+          <target>Nom du pays 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field CountryName2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nom</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Statut</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <target>Département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Method 3152277940 - NamedType 3654390003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete department %1 because its status is Open.</source>
+          <target>Vous ne pouvez pas supprimer le département %1 car son Statut est Ouvert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Method OnDelete - NamedType CannotDeleteOpenErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Method 1262666395 - NamedType 371618221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This department has employees assigned to it. Are you sure you want to modify department %1?</source>
+          <target>Ce département compte des employés en son sein, êtes-vous sûr de vouloir modifier le département %1 ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Method OnModify - NamedType ConfirmModifyMsg</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1122459035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Code</source>
+          <target>Code du chef de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1388655477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Name</source>
+          <target>Nom du chef de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1870084364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Status</source>
+          <target>Statut du chef de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 4212503223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreatedAT</source>
+          <target>Créé à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field CreatedAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3425251533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreatedBy</source>
+          <target>Créé par</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field CreatedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Statut</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3146696868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatedAT</source>
+          <target>Modifié à</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field updatedAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1206623490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatedBy</source>
+          <target>Modifié par</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field updatedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1082987012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Card</source>
+          <target>Carte Chef de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ChefDepartment Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 203702658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChefDepartment List</source>
+          <target>Liste des chefs de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ChefDepartment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Card</source>
+          <target>Carte Département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Method 716454850 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This department has more than 5 employees.</source>
+          <target>Ce département contient plus de 5 employés.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Method OnOpenPage - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target>Détails</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Général</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 4250645881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Chef</source>
+          <target>Chef de département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control GroupChef - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 3192146501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control GroupDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 958076726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Employees</source>
+          <target>Employés du département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Employees SubPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3166836205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Liste</source>
+          <target>Liste des départments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Liste - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3166836205 - Action 487804110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Employees</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Liste - Action ShowEmployees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1272728141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
+          <source>CountryRegion List</source>
+          <target>Liste des Pays/Régions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BC CountryRegion List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2031206043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Employee List</source>
+          <target>Liste des salariés</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BC Employee List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2102923555 - Field 3591622255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4148176377">
+          <source>name2</source>
+          <target>Nom 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC CountryRegion - Field name2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 910790307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Code</source>
+          <target>Code du département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 807586646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Description</source>
+          <target>Description du département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 3089852068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Status</source>
+          <target>Statut du département</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChefDepartment Status</source>
+          <target>Statut du chef de déparatement</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 2347438355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1</source>
+          <target>1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 4260528206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2</source>
+          <target>2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 3622831589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <target>3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 434348504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4</source>
+          <target>4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description Status</source>
+          <target>Statut de Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target>[NAB: REVIEW] </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target>Fermé</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target>Ouvert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

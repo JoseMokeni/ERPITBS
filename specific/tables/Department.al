@@ -108,6 +108,10 @@ table 50000 Department
     var
         CannotDeleteOpenErr: Label 'You cannot delete department %1 because its status is Open.';
     begin
+
+        // or like that
+        // Rec.TestField(Status, Rec.Status::Closed);
+
         if Rec.Status = Rec.Status::Open then
             Error(CannotDeleteOpenErr, Rec.Code);
 

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Projet1">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2225130392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 3643848063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field CountryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 2205693815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country Name 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field CountryName2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2225130392 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Method 3152277940 - NamedType 3654390003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot delete department %1 because its status is Open.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Method OnDelete - NamedType CannotDeleteOpenErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Method 1262666395 - NamedType 371618221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This department has employees assigned to it. Are you sure you want to modify department %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Method OnModify - NamedType ConfirmModifyMsg</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1122459035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1388655477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1870084364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field ChefDepartmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 4212503223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreatedAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field CreatedAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3425251533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreatedBy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field CreatedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 3146696868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatedAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field updatedAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1651921640 - Field 1206623490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UpdatedBy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Department - Field updatedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1082987012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chef Department Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ChefDepartment Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 203702658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChefDepartment List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ChefDepartment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Method 716454850 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This department has more than 5 employees.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Method OnOpenPage - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 4250645881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Chef</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control GroupChef - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 718409724 - Control 3192146501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Card - Control GroupDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 958076726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Employees SubPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3166836205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Liste</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Liste - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3166836205 - Action 487804110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Department Liste - Action ShowEmployees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1272728141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
+          <source>CountryRegion List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BC CountryRegion List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2031206043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Employee List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BC Employee List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2102923555 - Field 3591622255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4148176377">
+          <source>name2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC CountryRegion - Field name2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 910790307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 807586646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 434154053 - Field 3089852068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChefDepartment Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 2347438355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 4260528206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 3622831589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2667329268 - EnumValue 434348504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ChefDepartment Status - EnumValue 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 86365022 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Description Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
