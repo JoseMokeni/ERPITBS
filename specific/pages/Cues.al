@@ -9,7 +9,6 @@ page 50005 "Cues"
         {
             cuegroup("Employee Statistics")
             {
-
                 field("Number of assigned employees"; Rec."Number of assigned employees")
                 {
                     ApplicationArea = All;
