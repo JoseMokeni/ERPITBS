@@ -39,6 +39,20 @@ table 50003 Cue
             Caption = 'User Department Code';
             FieldClass = FlowFilter;
         }
+
+        // employee count
+        field(6; "Number of employees"; Integer){
+            Caption = 'Number of employees';
+            FieldClass = FlowField;
+            CalcFormula = COUNT(Employee);
+        }
+
+        // Department count
+        field(7; "Number of departments"; Integer){
+            Caption = 'Number of departments';
+            FieldClass = FlowField;
+            CalcFormula = COUNT(Department);
+        }
     }
     
     keys
