@@ -153,6 +153,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Department Liste - Action ShowEmployees - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2134858097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2134858097 - Action 1192838441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Action Departments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2134858097 - Action 347328507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Action Employees - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1272728141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
           <source>CountryRegion List</source>
           <note from="Developer" annotates="general" priority="2"></note>
