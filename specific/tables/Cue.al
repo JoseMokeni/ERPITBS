@@ -24,6 +24,21 @@ table 50003 Cue
             FieldClass = FlowField;
             CalcFormula = COUNT(Employee where (DepartmentCode = filter('')));
         }
+
+        // fields Nombre d'employes du departement de l'utilisateur
+        // use flow fielter to filter the employees of the user's department
+        field(4; "Employees in Department"; Integer)
+        {
+            Caption = 'Employees in My Department';
+            FieldClass = FlowField;
+            CalcFormula = COUNT(Employee WHERE(DepartmentCode = FIELD(UserDepartmentCode)));
+        }
+
+        field(5; "UserDepartmentCode"; Code[20])
+        {
+            Caption = 'User Department Code';
+            FieldClass = FlowFilter;
+        }
     }
     
     keys

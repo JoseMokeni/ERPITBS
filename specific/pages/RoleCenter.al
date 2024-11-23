@@ -13,8 +13,9 @@ page 50100 RoleCenter
                     
             }
 
-            part(Cues; 50005)
+            part(Cues; Cues)
             {
+                Caption = 'Stats';
                 ApplicationArea = All;
             }
         }

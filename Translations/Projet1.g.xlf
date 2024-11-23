@@ -33,6 +33,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Chef Department - Field Status - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 348514573 - Field 3772848654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees in My Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field Employees in Department - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 348514573 - Field 851925181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Number of assigned employees</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -47,6 +52,11 @@
           <source>Primary Key</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 348514573 - Field 1740165212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Department Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue - Field UserDepartmentCode - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Department</source>
@@ -123,6 +133,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ChefDepartment List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 929846852 - Control 2681073754 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the number of employees that are assigned to the user's department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cues - Control Employees in My Department - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 929846852 - Control 851925181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Shows the number of employees that are assigned to departments</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -182,6 +197,11 @@
           <source>Role Center</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2134858097 - Control 929846852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Control Cues - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2134858097 - Action 1192838441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Departments</source>
