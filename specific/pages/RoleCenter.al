@@ -34,6 +34,11 @@ page 50100 RoleCenter
                 Caption = 'Employees';
                 RunObject = page "Employee List";
             }
+            action(Users)
+            {
+                Caption = 'Users';
+                RunObject = page "User Setup";
+            }
         }
         area(Processing)
         {

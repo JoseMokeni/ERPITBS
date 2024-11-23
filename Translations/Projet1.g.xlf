@@ -193,6 +193,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Action Employees - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2134858097 - Action 2183420390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Action Users - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1272728141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
           <source>CountryRegion List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -202,6 +207,16 @@
           <source>Employee List</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BC Employee List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4110536417 - Control 3068680635 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938">
+          <source>Specifies the department code for this user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension User Setup Ext - Control Department Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4110536417 - Control 3068680635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938">
+          <source>Department Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension User Setup Ext - Control Department Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2102923555 - Field 3591622255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4148176377">
           <source>name2</source>
@@ -222,6 +237,11 @@
           <source>Department Status</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BC Employee - Field DepartmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4110536417 - Field 3068680635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Department Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup Ext - Field Department Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2667329268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>ChefDepartment Status</source>
