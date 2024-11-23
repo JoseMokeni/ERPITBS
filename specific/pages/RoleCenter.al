@@ -12,6 +12,11 @@ page 50100 RoleCenter
                 ApplicationArea = all;
                     
             }
+
+            part(Cues; 50005)
+            {
+                ApplicationArea = All;
+            }
         }
     }
     
