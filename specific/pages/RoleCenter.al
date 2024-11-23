@@ -18,6 +18,19 @@ page 50100 RoleCenter
                 Caption = 'Stats';
                 ApplicationArea = All;
             }
+
+            group(Lists)
+            {
+                ShowCaption = false;
+                part("Employee List"; "Employee List")
+                {
+                    ApplicationArea = All;
+                }
+                part("Department List"; "Department Liste")
+                {
+                    ApplicationArea = All;
+                }
+            }
         }
     }
     
