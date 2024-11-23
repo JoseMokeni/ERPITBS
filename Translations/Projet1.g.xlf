@@ -223,6 +223,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Control Cues - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2134858097 - Control 114416858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Control Department List - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2134858097 - Action 1192838441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Departments</source>
           <note from="Developer" annotates="general" priority="2"></note>

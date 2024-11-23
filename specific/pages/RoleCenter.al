@@ -24,10 +24,12 @@ page 50100 RoleCenter
                 ShowCaption = false;
                 part("Employee List"; "Employee List")
                 {
+                    Caption = 'Employees';
                     ApplicationArea = All;
                 }
                 part("Department List"; "Department Liste")
                 {
+                    Caption = 'Departments';
                     ApplicationArea = All;
                 }
             }
