@@ -228,6 +228,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Control Department List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2134858097 - Control 272934828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Control Employee List - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2134858097 - Action 1192838441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Departments</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -242,6 +247,16 @@
           <source>Users</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RoleCenter - Action Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 418614739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee per department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Employee per department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 418614739 - ReportLabel 3434267879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Employee per department - ReportLabel EmployeeName</note>
         </trans-unit>
         <trans-unit id="PageExtension 1272728141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
           <source>CountryRegion List</source>
